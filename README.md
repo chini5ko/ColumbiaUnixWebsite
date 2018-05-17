@@ -7,9 +7,24 @@ This tutorial is for Window users.
 2. Download Putty 
     Follow this instructions to donwload putty: https://cuit.columbia.edu/putty
 3. After downloanding PuTTy, type on Host Name: cunix.columbia.edu
-⋅⋅* SSH
-⋅⋅* Port 22
+SSH
+Port 22
     
-4. Enter your UNI account 
+4. Enter your UNI account (Login as)
 5. Type your UNI password
 
+# Commands
+**ls** list all the folders and files in the directory 
+**cd** Change directory 
+**pico** edit a file
+**rm** remove a file
+
+# Steps (STFP) secure transfer file protocle
+1.install WinSCP
+    https://cuit.columbia.edu/content/winscp
+2. same as before. 
+    Enter your UNI as username 
+    Enter your password
+    Host name: cunix.cc.columbia.edu
+    Port: 22
+3. Now you can transfer files from your computer to your Unix account. 
