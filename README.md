@@ -23,6 +23,10 @@ Port 22
 1. Install WinSCP
     https://cuit.columbia.edu/content/winscp
 2. Same as before. 
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
     Enter your UNI as username 
     Enter your password
     Host name: cunix.cc.columbia.edu
