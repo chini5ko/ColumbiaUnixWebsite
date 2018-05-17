@@ -7,9 +7,9 @@ This tutorial is for Window users.
 2. Download Putty 
     Follow this instructions to donwload putty: https://cuit.columbia.edu/putty
 3. After downloanding PuTTy, type on Host Name: cunix.columbia.edu
-..* SSH
-..* Port 22
+⋅⋅* SSH
+⋅⋅* Port 22
     
 4. Enter your UNI account 
 5. Type your UNI password
-    
+
