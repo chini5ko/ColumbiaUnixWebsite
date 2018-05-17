@@ -20,9 +20,9 @@ Port 22
 **rm** remove a file
 
 # Steps (STFP) secure transfer file protocle
-1.install WinSCP
+1. Install WinSCP
     https://cuit.columbia.edu/content/winscp
-2. same as before. 
+2. Same as before. 
     Enter your UNI as username 
     Enter your password
     Host name: cunix.cc.columbia.edu
