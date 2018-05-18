@@ -3,7 +3,7 @@ A simple tutorial to create a responsive wesite using W3's library for Columia S
 
 This tutorial is for Window users. 
 1. Donwload WinSCP to transfer yor files from your computer to Columbia's server. 
-a. SSH is to edit your file from the terminal. (you dont really) need to download this
+* SSH is to edit your file from the terminal. (you dont really) need to download this
 2. Edit the html, which is provided, template such as name, about your major, and image names...
 3. Logging to your WinSCP and drag the file from your Computer to Columbia server. 
 
@@ -11,8 +11,7 @@ a. SSH is to edit your file from the terminal. (you dont really) need to downloa
 Edit your files. 
 1. Have a UNI account 
 2. Download Putty 
-
-    Follow this instructions to donwload putty: https://cuit.columbia.edu/putty
+* Follow this instructions to donwload putty: https://cuit.columbia.edu/putty
 3. After downloanding PuTTy, type:
 
 Description | Input
@@ -53,6 +52,6 @@ Port | 22
 
 3. Now you can transfer files from your computer to your Unix account. 
 
-# html
-. Using the library W3 CSS: https://www.w3schools.com/w3css/ (It is responsive)
-. Final Example: http://www.columbia.edu/~hl3169/
+## html
+* Using the library W3 CSS: https://www.w3schools.com/w3css/ (It is responsive)
+* Final Example: http://www.columbia.edu/~hl3169/
