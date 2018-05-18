@@ -7,7 +7,11 @@ This tutorial is for Window users.
 2. Edit the html, which is provided, template such as name, about your major, and image names...
 3. Logging to your WinSCP and drag the file from your Computer to Columbia server. 
 
-# Steps (SSH) Secure Shell
+# html
+* Using the library W3 CSS: https://www.w3schools.com/w3css/ (It is responsive)
+* Final Example: http://www.columbia.edu/~hl3169/
+
+### Steps (SSH) Secure Shell
 Edit your files. 
 1. Have a UNI account 
 2. Download Putty 
@@ -26,7 +30,7 @@ Option | SSH
 4. Enter your UNI account (Login as)
 5. Type your UNI password
 
-# Commands
+## Commands
 These are the typical command lines.
 
 command | Description
@@ -52,6 +56,4 @@ Port | 22
 
 3. Now you can transfer files from your computer to your Unix account. 
 
-## html
-* Using the library W3 CSS: https://www.w3schools.com/w3css/ (It is responsive)
-* Final Example: http://www.columbia.edu/~hl3169/
+
