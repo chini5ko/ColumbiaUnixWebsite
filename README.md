@@ -11,7 +11,7 @@ This tutorial is for Window users.
 * Using the library W3 CSS: https://www.w3schools.com/w3css/ (It is responsive)
 * Final Example: http://www.columbia.edu/~hl3169/
 
-### Steps (SSH) Secure Shell
+# Steps (SSH) Secure Shell
 Edit your files. 
 1. Have a UNI account 
 2. Download Putty 
@@ -30,7 +30,7 @@ Option | SSH
 4. Enter your UNI account (Login as)
 5. Type your UNI password
 
-## Commands
+# Commands
 These are the typical command lines.
 
 command | Description
