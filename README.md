@@ -50,3 +50,7 @@ Host Name | cunix.cc.columbia.edu
 Port | 22
 
 3. Now you can transfer files from your computer to your Unix account. 
+
+# html
+Using the library W3 CSS: https://www.w3schools.com/w3css/ (It is responsive)
+Final Example: http://www.columbia.edu/~hl3169/
