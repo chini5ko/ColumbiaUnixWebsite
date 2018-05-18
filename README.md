@@ -2,7 +2,7 @@
 A simple tutorial to create a responsive wesite using W3's library for Columia Students. 
 This tutorial is for Window users. 
 1. Donwload WinSCP to transfer yor files from your computer to Columbia's server. 
-SSH is to edit your file from the terminal. (you dont really) need to download this
+1.1 SSH is to edit your file from the terminal. (you dont really) need to download this
 2. Edit the html, which is provided, template such as name, about your major, and image names...
 3. Logging to your WinSCP and drag the file from your Computer to Columbia server. 
 
