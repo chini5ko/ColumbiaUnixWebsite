@@ -1,0 +1,78 @@
+@media (min-width: 100px){
+    body { background-color: blue
+    }
+
+    h1 {
+        color: yellow;
+    }
+
+}
+
+@media (min-width: 815px){
+    body {
+         display: grid;
+         margin: 0;
+         background-color: black;
+         grid-template-rows: 25% 50%  25%;
+         grid-template-columns: 200px auto 200px;
+    
+    }
+
+    BIO{
+        background-color: lightblue;
+        grid-column: 1/2;
+        grid-row: 1/2;
+        text-align: center;
+        margin-right: 5px;
+        margin-bottom: 5px;
+    }
+
+    TOP{
+        background-color: lightslategray;
+        grid-column: 2/3;
+        grid-row: 1/2;
+        text-align: center;
+    }
+
+    NYC{
+        background-color: lightblue;
+        grid-column: 3/4;
+        grid-row: 1/2;
+        text-align: center;
+    }
+
+    CS{
+        background-color: lightgreen;
+        grid-column: 1/2;
+        grid-row: 2/3;
+        text-align: center;
+        margin-right: 5px;
+        margin-bottom: 5px;
+    }
+
+    DISPLAY{
+        background-color: white;
+        grid-column: 2/3;
+        grid-row: 2/3;
+        text-align: center;
+    }
+
+    BIGO{
+        background-color: red;
+        grid-column: 3/4;
+        grid-row: 2/3;
+        text-align: center;
+    }
+
+    SOCIAL{
+        background-color: gray;
+        grid-column: 1/4;
+        grid-row: 3/4;
+        text-align: center;
+    }
+
+
+    h1{
+        color: white;
+    }
+}
