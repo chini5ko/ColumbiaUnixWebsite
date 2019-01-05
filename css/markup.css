@@ -1,0 +1,29 @@
+#left{
+    background: rgb(238, 238, 238);
+    text-align: center;
+    color: black;
+    border-radius: 3px;
+    font-size: 1rem;
+    text-transform: uppercase;
+    height: 50px;
+    line-height: 50px;
+    margin-bottom: .75rem;
+    margin-top: .75rem;
+    font-weight: 600;
+    
+}
+
+#right{
+    background: rgb(238, 238, 238);
+    text-align: center;
+    color: black;
+    border-radius: 3px;
+    font-size: 1rem;
+    text-transform: uppercase;
+    height: 50px;
+    line-height: 50px;
+    margin-bottom: .75rem;
+    margin-top: .75rem;
+
+    font-weight: 600;
+}

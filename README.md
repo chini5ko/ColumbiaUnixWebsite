@@ -1,5 +1,5 @@
 # ColumiaUnixWebsite
-A simple tutorial to create a responsive wesite using W3's library for Columia Students. 
+A simple tutorial to create a responsive website using W3's library for Columia Students (oldVersion) or starting from a responsive skeleton (www.getskeleton.com). 
 
 This tutorial is for Window users. 
 1. Donwload WinSCP to transfer yor files from your computer to Columbia's server. 
@@ -8,8 +8,9 @@ This tutorial is for Window users.
 3. Logging to your WinSCP and drag the file from your Computer to Columbia server. 
 
 # html
-* Using the library W3 CSS: https://www.w3schools.com/w3css/ (It is responsive)
-* Final Example: http://www.columbia.edu/~hl3169/
+* Using the library W3 CSS: https://www.w3schools.com/w3css/ (It is responsive,)
+* Using www.getskeleton.com skeleton which is responsive
+* Final Example: http://www.columbia.edu/~hl3169/ 
 
 # Steps (SSH) Secure Shell
 Edit your files. 
