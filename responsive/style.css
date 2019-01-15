@@ -1,78 +1,84 @@
-@media (min-width: 100px){
-    body { background-color: blue
-    }
-
-    h1 {
-        color: yellow;
-    }
-
+.site {
+	max-width: 800px;
+	margin: 0 auto;
 }
 
-@media (min-width: 815px){
-    body {
-         display: grid;
-         margin: 0;
-         background-color: black;
-         grid-template-rows: 25% 50%  25%;
-         grid-template-columns: 200px auto 200px;
-    
-    }
+/*--------------------------------------------------------------
+General styling
+--------------------------------------------------------------*/
 
-    BIO{
-        background-color: lightblue;
-        grid-column: 1/2;
-        grid-row: 1/2;
-        text-align: center;
-        margin-right: 5px;
-        margin-bottom: 5px;
-    }
+h1,
+h2,
+h3 {
+	text-align: center;
+	margin: 0;
+	padding: 16px;
+}
 
-    TOP{
-        background-color: lightslategray;
-        grid-column: 2/3;
-        grid-row: 1/2;
-        text-align: center;
-    }
+h4,
+h5,
+h6 {
+    text-align: center;
+    color: white;
+    margin: 0;
+    padding: 16px;
+}
 
-    NYC{
-        background-color: lightblue;
-        grid-column: 3/4;
-        grid-row: 1/2;
-        text-align: center;
-    }
+p {
+	margin: 0;
+	padding: 16px;
+}
 
-    CS{
-        background-color: lightgreen;
-        grid-column: 1/2;
-        grid-row: 2/3;
-        text-align: center;
-        margin-right: 5px;
-        margin-bottom: 5px;
-    }
+ul{
+display: flex;
+justify-content: space-around;
+}
 
-    DISPLAY{
-        background-color: white;
-        grid-column: 2/3;
-        grid-row: 2/3;
-        text-align: center;
-    }
+li {
+    text-align: center;
+}
 
-    BIGO{
-        background-color: red;
-        grid-column: 3/4;
-        grid-row: 2/3;
-        text-align: center;
-    }
+ol{
+    text-align: center;
+}
 
-    SOCIAL{
-        background-color: gray;
-        grid-column: 1/4;
-        grid-row: 3/4;
-        text-align: center;
-    }
+img {
+	display: block;
+	border: 0;
+	width: 100%;
+	height: auto;
+}
+
+#profileIma{
+    display: block;
+    border-radius: 50%;
+   
+   
+}
+/*--------------------------------------------------------------
+Sections
+--------------------------------------------------------------*/
+.top{
+    background-color: grey;
+}
+
+.main{
+    background-color: rgb(134, 163, 180);
+}
 
 
-    h1{
-        color: white;
-    }
+
+/*--------------------------------------------------------------
+Sub-Sections
+--------------------------------------------------------------*/
+.sidebar{
+    background-color: lightcoral;
+}
+
+.twin{
+    background-color: lightpink;
+}
+
+.footer{
+    background-color: black;
 }
