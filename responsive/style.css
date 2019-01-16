@@ -3,6 +3,11 @@
 	margin: 0 auto;
 }
 
+body{
+    background-image: url(img/ocean.jpg);
+    
+}
+
 /*--------------------------------------------------------------
 General styling
 --------------------------------------------------------------*/
@@ -12,7 +17,8 @@ h2,
 h3 {
 	text-align: center;
 	margin: 0;
-	padding: 16px;
+    padding: 32px;
+    color: rgba(255, 255, 255, 0.712);
 }
 
 h4,
@@ -26,7 +32,9 @@ h6 {
 
 p {
 	margin: 0;
-	padding: 16px;
+    padding: 16px;
+    font-size: 20px;
+    
 }
 
 ul{
@@ -39,11 +47,13 @@ li {
 }
 
 ol{
-    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+  
+    text-align: left;
 }
 
 img {
-	display: block;
 	border: 0;
 	width: 100%;
 	height: auto;
@@ -51,19 +61,45 @@ img {
 
 #profileIma{
     display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
     border-radius: 50%;
-   
-   
+    border:3px solid rgba(255, 255, 255, 0.712);
 }
 /*--------------------------------------------------------------
 Sections
 --------------------------------------------------------------*/
 .top{
-    background-color: grey;
+    background-color: rgba(128, 128, 128, 0.205);
+    padding-bottom:  2em;
+    
 }
 
 .main{
-    background-color: rgb(134, 163, 180);
+    background-color: rgba(20, 107, 81, 0.5);
+    color: rgba(255, 255, 255, 0.712);
+}
+
+.portafolio{
+    background-color:  rgba(100, 83, 83, 0.712);
+    padding-bottom:  2em;
+
+}
+
+.sidebar{
+    background-color:  rgba(20, 107, 81, 0.5);
+    padding-bottom:  2em;
+}
+
+.education{
+    background-color:  rgba(100, 83, 83, 0.712);
+    padding-bottom:  2em;
+}
+
+.contact{
+    background-color:  rgba(20, 107, 81, 0.5);
+    padding-bottom:  2em;
 }
 
 
@@ -71,14 +107,12 @@ Sections
 /*--------------------------------------------------------------
 Sub-Sections
 --------------------------------------------------------------*/
-.sidebar{
-    background-color: lightcoral;
-}
+
 
 .twin{
     background-color: lightpink;
 }
 
 .footer{
-    background-color: black;
+    background-color: rgba(8, 8, 8, 0.459);
 }
